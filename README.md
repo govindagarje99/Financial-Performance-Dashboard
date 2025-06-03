@@ -25,7 +25,7 @@ This Power BI project visualizes key financial metrics like **sales**, **profit*
 
 ![Dashboard Screenshot](dashboard_preview.png)
 
-**Your Name**  
+Govinda Garje 
 Aspiring Power BI Developer | Data Analyst  
 📧 garje.govinda99@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/govinda99/)
